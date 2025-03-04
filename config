@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[submodule "pre-commit"]
+	url = https://github.com/keerthana1020/pre-commit.git
+	active = true
+[submodule ".cache/pre-commit/repo07vhgjdt"]
+	url = file:///home/user5/cache/pre-commit/repo07vhgjdt/
+	active = true
